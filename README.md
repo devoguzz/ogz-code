@@ -1,6 +1,8 @@
 # 💫About Me :
 🌱 I’m currently learning React
+
 📫 How to reach me beyazogz@gmail.com
+
 📄 Know about my experiences https://www.linkedin.com/in/oguzhan53/
 
 
