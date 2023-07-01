@@ -1,5 +1,7 @@
 # 💫About Me :
-🌱 I’m currently learning React
+🔭 I’m currently working on my Skills.
+
+🌱 I’m currently learning more about Front-End developer
 
 📫 How to reach me beyazogz@gmail.com
 
